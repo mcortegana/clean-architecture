@@ -1,0 +1,17 @@
+server:
+  port: 9999
+
+security:
+  basic:
+    path:
+
+management:
+  security:
+    enabled: false
+
+logging:
+  level:
+    org:
+      springframework:
+        web: INFO
+      hibernate: ERROR
