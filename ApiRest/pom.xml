@@ -11,7 +11,7 @@
 
     <modules>
         <module>core</module>
-        <module>dataproviders</module>
+        <module>adapter</module>
         <module>delivery</module>
         <module>usecases</module>
     </modules>
